@@ -1,4 +1,4 @@
-# showcase
+# courier2
 
 ## Project setup
 ```
